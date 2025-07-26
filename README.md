@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Sachin Holla 👋\
 
-<!--
-**sachinholla22/sachinholla22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+Hi 👋, I'm Sachin Holla👀 I’m interested in ... building scalable backend applications🔭 I’m currently working on backend projects with Spring Boot and AI integration using LangChain🌱 I'm currently learning advanced database optimization and microservices architecture  
 
-Here are some ideas to get you started:
+💬 Ask me about:
+Java, Spring Boot, Hibernate, RESTful APIs, MVC ,LangChain, MySQL, PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+EmailPhone: +91 8050866077  
+🌐 Socials:
+
+-LinkedIn  -https://www.linkedin.com/in/sachin-holla-849b71283/
+-GitHub    -https://github.com/sachinholla22
+
+💻 Tech Stack:
+
+Core Java  
+Spring Boot  
+HTML/CSS  
+Hibernate  
+LangChain with Python (model training)  
+MySQL  
+PostgreSQL  
+Docker
+
