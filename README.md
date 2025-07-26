@@ -7,7 +7,8 @@ Hi 👋, I'm Sachin Holla👀 I’m interested in ... building scalable backend 
 Java, Spring Boot, Hibernate, RESTful APIs, MVC ,LangChain, MySQL, PostgreSQL  
 
 📫 How to reach me:
-EmailPhone: +91 8050866077  
+Email-sachinholla01@gmail.com
+Phone: +91 8050866077  
 🌐 Socials:
 
 -LinkedIn  -https://www.linkedin.com/in/sachin-holla-849b71283/
