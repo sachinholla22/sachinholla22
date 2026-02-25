@@ -22,9 +22,9 @@ Phone: +91 8050866077
 -GitHub    -https://github.com/sachinholla22
 
 💻 Tech Stack:
-
+Python
+Pandas
 Core Java  
-Spring Boot  
 HTML/CSS  
 Hibernate  
 LangChain with Python (model training)  
