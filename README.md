@@ -1,10 +1,17 @@
-Hi there, I'm Sachin Holla 👋\
+Hi 👋, I'm Sachin Holla
+👀 I’m interested in architecting robust data pipelines and scalable backend infrastructures. 🔭 I’m currently building ETL workflows and integrating AI using LangChain to automate data processing.
 
-💫 About Me:
-Hi 👋, I'm Sachin Holla👀 I’m interested in ... building scalable backend applications🔭 I’m currently working on backend projects with Spring Boot and AI integration using LangChain🌱 I'm currently learning advanced database optimization and microservices architecture  
+🌱 I'm actively mastering Apache Airflow for orchestration and advanced SQL optimization for high-volume data warehouses.
 
-💬 Ask me about:
-Java, Spring Boot, Hibernate, RESTful APIs, MVC ,LangChain, MySQL, PostgreSQL  
+💬 Ask me about: * Languages: Python, Java, SQL
+
+Data Engineering: ETL/ELT Pipelines, Apache Airflow, Data Modeling
+
+Backend: RESTful APIs, Spring Boot (Legacy), MVC Architecture
+
+Databases: PostgreSQL, MySQL, Redis
+
+AI: LangChain, Vector Databases
 
 📫 How to reach me:
 Email-sachinholla01@gmail.com
