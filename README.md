@@ -7,7 +7,7 @@ Hi 👋, I'm Sachin Holla
 
 Data Engineering: ETL/ELT Pipelines, Apache Airflow, Data Modeling
 
-Backend: RESTful APIs, Spring Boot (Legacy), MVC Architecture
+Backend: RESTful APIs, Python Flask, MVC Architecture
 
 Databases: PostgreSQL, MySQL, Redis
 
@@ -26,7 +26,6 @@ Python
 Pandas
 Core Java  
 HTML/CSS  
-Hibernate  
 LangChain with Python (model training)  
 MySQL  
 PostgreSQL  
